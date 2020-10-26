@@ -10,11 +10,10 @@ import os
 import time
 from multiprocessing import Process, Queue
 
-pool_host = 'bohemianpool.com'
-pool_port = 4444
+pool_host = 'pool'
+pool_port = 'port(integer)'
 pool_pass = '1'
-wallet_address = '86jcwQFrS5FMsqfTFh1dW4XQnsa6VDABrdY2LHy3pZmu1FABh8iDXBbNPHzEy95ezrDCrLBG9p5oNRVGq6HpEyR5Cs8bn4G'
-
+wallet_address = 'Youre wallet address'
 
 def main():
     pool_ip = socket.gethostbyname(pool_host)
