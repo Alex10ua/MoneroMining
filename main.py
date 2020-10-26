@@ -13,7 +13,7 @@ from multiprocessing import Process, Queue
 pool_host = 'pool'
 pool_port = 'port(integer)'
 pool_pass = '1'
-wallet_address = 'Youre wallet address'
+wallet_address = 'Your wallet address'
 
 def main():
     pool_ip = socket.gethostbyname(pool_host)
