@@ -10,9 +10,9 @@ import os
 import time
 from multiprocessing import Process, Queue
 
-pool_host = 'bohemianpool.com'
-pool_port = 4444
-pool_pass = '1'
+pool_host = 'gulf.moneroocean.stream'
+pool_port = 10128
+pool_pass = 'Termux'
 wallet_address = '86jcwQFrS5FMsqfTFh1dW4XQnsa6VDABrdY2LHy3pZmu1FABh8iDXBbNPHzEy95ezrDCrLBG9p5oNRVGq6HpEyR5Cs8bn4G'
 
 
